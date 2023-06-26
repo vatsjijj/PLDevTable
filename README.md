@@ -1,6 +1,8 @@
 # PLDevTable
 Some notes:
 
+Inactive is not a negative thing. It means I ***fully expect*** continued commits to the given language. Dead means I do ***NOT*** expect any updates to the given language.
+
 Inactive means that the repository hasn't been committed to in around a month, dead means a year/archived. A question mark means I cannot figure some given thing out with confidence. Some author names are Discord usernames, I apologize!
 
 If I get something wrong you can open up a GH issue (do not DM me on Discord about this, please) and I'll get right to it. <3
