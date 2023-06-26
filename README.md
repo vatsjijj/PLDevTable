@@ -13,7 +13,7 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Aardvark    | Aardvark Team         | Python        | OOP/Procedural            | Inactive |
 | AEC         | FlatAssembler         | C++           | Procedural                | Active   |
 | Aith        | Superstar64           | Haskell       | Procedural/Functional     | Active   |
-| Algograph   | kfdvh                 | None          | ?                         | ?        |
+| Algograph   | kfdvh                 | N/A           | ?                         | ?        |
 | Amethyst    | jenra-uwu             | Rust          | Procedural/Functional     | Active   |
 | Amoeba      | kalyani-tt            | Agda          | Functional                | Active   |
 | Ante        | jfecher               | Rust          | Functional                | Active   |
@@ -30,11 +30,11 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Cognate     | cognate-lang          | C             | Functional                | Inactive |
 | Comune      | comune-lang           | Rust          | OOP/Procedural            | Active   |
 | Cthulu      | Apache-HB             | C/C++         | Procedural                | Active   |
-| Cute        | cutelang              | None          | ?                         | ?        |
-| Cyclic      | helpful.deer.thoughts | None          | ?                         | ?        |
+| Cute        | cutelang              | N/A           | ?                         | ?        |
+| Cyclic      | helpful.deer.thoughts | N/A           | ?                         | ?        |
 | Eepy        | emm312                | Rust          | Procedural                | Active   |
 | Egel        | egel-lang             | C++           | Functional                | Active   |
-| Eve         | sage-code             | None          | ?                         | ?        |
+| Eve         | sage-code             | N/A           | ?                         | ?        |
 | Evie        | Gabidal               | C++           | Procedural                | Inactive |
 | Fir         | KittyBorgX            | Rust          | Procedural                | Inactive |
 | Firefly     | Ahnfelt               | JavaScript    | Procedural                | Active   |
@@ -42,13 +42,13 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | GFlat       | smasher164            | Go            | Functional                | Active   |
 | Gwion       | Gwion                 | C             | OOP/Procedural/Musical    | Active   |
 | H-Hat       | hhat-lang             | Python        | Quantum                   | Inactive |
-| Henkuhisser | henkuhisser-lang      | None          | ?                         | ?        |
+| Henkuhisser | henkuhisser-lang      | N/A           | ?                         | ?        |
 | Hook        | hook-lang             | C             | Procedural                | Active   |
 | Hyper       | SkillerRaptor         | Rust          | Procedural                | Dead     |
 | Inko        | inko-lang             | Rust          | OOP/Procedural            | Active   |
 | Insitux     | phunanon              | TypeScript    | Functional                | Active   |
-| IXFleura    | rikashore             | None          | ?                         | ?        |
-| Jacquard    | fierydawnsky          | None          | ?                         | ?        |
+| IXFleura    | rikashore             | N/A           | ?                         | ?        |
+| Jacquard    | fierydawnsky          | N/A           | ?                         | ?        |
 | Kamilalisp  | kspalaiologos         | Java          | Functional                | Active   |
 | Khasm       | khasm-lang            | OCaml/C       | Functional                | Inactive |
 | Lapla       | devtaube              | Rust          | Procedural                | Active   |
@@ -56,7 +56,7 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Luno        | megabytesofrem        | Rust          | Procedural                | Active   |
 | Madlib      | madlib-lang           | Haskell       | Procedural/Functional     | Active   |
 | Mepros      | thegreatcatadorer     | Rust          | Functional                | Inactive |
-| Mimas       | piyoni                | None          | Functional                | ?        |
+| Mimas       | piyoni                | N/A           | Functional                | ?        |
 | MiniVM      | FastVM                | C             | Procedural                | Inactive |
 | Mlatu       | mlatu-lang            | Rust          | Concatenative             | Inactive |
 | Newton      | NewtonLang            | Rust          | Procedural                | Inactive |
@@ -72,11 +72,11 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Protozoid   | XANOZOID              | JavaScript    | Concatenative             | Inactive |
 | Prowl       | UberPyro              | OCaml         | Concatenative             | Inactive |
 | Queso       | queso-lang            | TypeScript    | Functional                | Inactive |
-| Raven       | nekodjin              | None          | ?                         | ?        |
+| Raven       | nekodjin              | N/A           | ?                         | ?        |
 | Ren         | ren-lang              | Elm           | Functional                | Dead     |
 | Rhovas      | Rhovas                | Kotlin        | OOP/Procedural/Functional | Active   |
 | Ripple      | FishArmy100           | C#            | Procedural                | Inactive |
-| Sack        | RandomSoup            | None          | Procedural                | Inactive |
+| Sack        | RandomSoup            | N/A           | Procedural                | Inactive |
 | Shine       | DancingGrumpyCat      | Python        | Spreadsheet(?)            | Inactive |
 | Siko        | siko-lang             | Siko          | Functional                | Active   |
 | Sinepia     | thewalker77           | Coq/Rust      | Functional                | Inactive |
@@ -84,13 +84,13 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Soy         | soylang-org           | ?             | ?                         | ?        |
 | Space       | T8080                 | Clojure       | Functional                | Dead     |
 | Star        | ALANVF                | Haxe          | OOP/Procedural            | Active   |
-| Strata      | spaceshaman           | None          | ?                         | ?        |
+| Strata      | spaceshaman           | N/A           | ?                         | ?        |
 | Strictly    | strictly-lang         | JS/Haskell    | Declarative               | Dead     |
 | Styff       | aradarbel10           | OCaml         | Functional                | Inactive |
 | Toy         | Ratstail91            | C             | Procedural                | Active   |
 | VCB-C       | solar-mist            | C             | Procedural                | Inactive |
 | Vox         | MrSmith33             | D             | Procedural                | Inactive |
-| Wizardry    | Wizardry-PL           | None          | Procedural                | Dead     |
+| Wizardry    | Wizardry-PL           | N/A           | Procedural                | Dead     |
 | WORX        | vatsjijj              | Nim           | Concatenative             | Inactive |
 
 Note on Soy and ASC: I've seen working implementations floating around before, but I cannot remember details.
