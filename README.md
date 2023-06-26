@@ -79,7 +79,7 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Siko        | siko-lang             | Siko              | Functional                | Active   |
 | Sinepia     | thewalker77           | Coq/Rust          | Functional                | Active   |
 | Som         | SjVer                 | OCaml             | Functional                | Active   |
-| Soy         | soylang-org           | ?                 | ?                         | ?        |
+| Soy         | soylang-org           | C++               | OOP/Procedural            | Active   |
 | Space       | T8080                 | Clojure           | Functional                | Inactive |
 | Star        | ALANVF                | Haxe              | OOP/Procedural            | Active   |
 | Strata      | spaceshaman           | No Implementation | ?                         | ?        |
@@ -91,4 +91,4 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Wizardry    | Wizardry-PL           | No Implementation | Procedural                | Inactive |
 | WORX        | vatsjijj              | Nim               | Concatenative             | Active   |
 
-Note on Soy and ASC: I've seen working implementations floating around before, but I cannot remember details.
+Note on ASC: I've seen a working implementation floating around before, but I cannot remember the details of it.
