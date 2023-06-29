@@ -45,11 +45,12 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Hyper       | SkillerRaptor         | Rust              | Procedural                | Inactive |
 | Inko        | inko-lang             | Rust              | OOP/Procedural            | Active   |
 | Insitux     | phunanon              | TypeScript        | Functional                | Active   |
-| IXFleura    | rikashore             | No Implementation | ?                         | ?        |
+| Iolite      | devtaube              | Rust/JavaScript/C | ?                         | Active   |
+| Ixfleura    | rikashore             | No Implementation | ?                         | ?        |
 | Jacquard    | fierydawnsky          | No Implementation | ?                         | ?        |
 | Kamilalisp  | kspalaiologos         | Java              | Functional                | Active   |
 | Khasm       | khasm-lang            | OCaml/C           | Functional                | Active   |
-| Lapla       | devtaube              | Rust              | Procedural                | Active   |
+| Lapla       | devtaube              | Rust              | Procedural                | Inactive |
 | Lucu        | Astavie               | Rust              | Procedural                | Active   |
 | Luno        | megabytesofrem        | Rust              | Procedural                | Active   |
 | Madlib      | madlib-lang           | Haskell           | Procedural/Functional     | Active   |
@@ -84,7 +85,7 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Star        | ALANVF                | Haxe              | OOP/Procedural            | Active   |
 | Strata      | spaceshaman           | No Implementation | ?                         | ?        |
 | Strictly    | strictly-lang         | JS/Haskell        | Declarative               | Inactive |
-| Styff       | aradarbel10           | OCaml             | Functional                | Active   |
+| Styff       | aradarbel10           | OCaml             | Functional                | Inactive |
 | Toy         | Ratstail91            | C                 | Procedural                | Active   |
 | VCB-C       | solar-mist            | C                 | Procedural                | Active   |
 | Vox         | MrSmith33             | D                 | Procedural                | Active   |
