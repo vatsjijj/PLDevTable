@@ -46,7 +46,7 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Inko        | inko-lang             | Rust              | OOP/Procedural            | Active   |
 | Insitux     | phunanon              | TypeScript        | Functional                | Active   |
 | Iolite      | devtaube              | Rust/JavaScript/C | ?                         | Active   |
-| Ixfleura    | rikashore             | No Implementation | ?                         | ?        |
+| Ixfleura    | rikashore             | No Implementation | ?                         | Active   |
 | Jacquard    | fierydawnsky          | No Implementation | ?                         | ?        |
 | Kamilalisp  | kspalaiologos         | Java              | Functional                | Active   |
 | Khasm       | khasm-lang            | OCaml/C           | Functional                | Active   |
