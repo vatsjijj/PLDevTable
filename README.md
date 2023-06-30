@@ -34,13 +34,13 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Egel        | egel-lang             | C++               | Functional                | Active   |
 | Eve         | sage-code             | No Implementation | ?                         | ?        |
 | Evie        | Gabidal               | C++               | Procedural                | Active   |
-| Fir         | KittyBorgX            | Rust              | Procedural                | Active   |
+| Fir         | KittyBorgX            | Rust              | Procedural                | Inactive |
 | Firefly     | Ahnfelt               | JavaScript        | Procedural                | Active   |
 | Gerku       | rdentato              | C                 | Functional                | Inactive |
 | GFlat       | smasher164            | Go                | Functional                | Active   |
 | Gwion       | Gwion                 | C                 | OOP/Procedural/Musical    | Active   |
 | H-Hat       | hhat-lang             | Python            | Quantum                   | Active   |
-| Henkuhisser | henkuhisser-lang      | No Implementation | ?                         | ?        |
+| Henkuhisser | henkuhisser-lang      | No Implementation | ?                         | Inactive |
 | Hook        | hook-lang             | C                 | Procedural                | Active   |
 | Hyper       | SkillerRaptor         | Rust              | Procedural                | Inactive |
 | Inko        | inko-lang             | Rust              | OOP/Procedural            | Active   |
@@ -71,7 +71,7 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Protozoid   | XANOZOID              | JavaScript        | Concatenative             | Active   |
 | Prowl       | UberPyro              | OCaml             | Concatenative/Logic       | Active   |
 | Queso       | queso-lang            | TypeScript        | Functional                | Active   |
-| Raven       | nekodjin              | No Implementation | ?                         | ?        |
+| Raven       | nekodjin              | No Implementation | ?                         | Inactive |
 | Ren         | ren-lang              | Elm               | Functional                | Inactive |
 | Rhovas      | Rhovas                | Kotlin            | OOP/Procedural/Functional | Active   |
 | Ripple      | FishArmy100           | C#                | Procedural                | Active   |
