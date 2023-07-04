@@ -20,6 +20,7 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Azurite     | rookieCookies         | Rust              | Procedural                | Active   |
 | Basil       | basilTeam             | C++               | Functional                | Inactive |
 | BluC        | johnmschneider        | Java              | OOP/Procedural            | Inactive |
+| BoltVM      | andre-1337            | Rust              | Procedural                | Active   |
 | Brie        | fuzzballcat           | Rust              | Logical/Array             | Active   |
 | Butter      | neverRare             | Rust              | Procedural                | Active   |
 | Capy        | playXE                | Rust              | Functional                | Active   |
