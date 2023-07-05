@@ -88,9 +88,9 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Strictly    | strictly-lang         | JS/Haskell        | Declarative               | Inactive |
 | Styff       | aradarbel10           | OCaml             | Functional                | Inactive |
 | Toy         | Ratstail91            | C                 | Procedural                | Active   |
-| VCB-C       | solar-mist            | C                 | Procedural                | Active   |
+| Viper       | solar-mist            | C                 | Procedural                | Active   |
 | Vox         | MrSmith33             | D                 | Procedural                | Active   |
 | Wizardry    | Wizardry-PL           | No Implementation | Procedural                | Inactive |
-| WORX        | vatsjijj              | Nim               | Concatenative             | Active   |
+| Wonton      | vatsjijj              | Lean              | Functional                | Active   |
 
 Note on ASC: I've seen a working implementation floating around before, but I cannot remember the details of it.
