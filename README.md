@@ -71,6 +71,7 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | PPL         | gavrilikhin-d         | Rust              | Functional                | Active   |
 | Protozoid   | XANOZOID              | JavaScript        | Concatenative             | Active   |
 | Prowl       | UberPyro              | OCaml             | Concatenative/Logic       | Active   |
+| Pythonon    | Ledr                  | No Implementation | OOP/Procedural            | Active   |
 | Queso       | queso-lang            | TypeScript        | Functional                | Active   |
 | Raven       | nekodjin              | No Implementation | ?                         | Inactive |
 | Ren         | ren-lang              | Elm               | Functional                | Inactive |
