@@ -28,6 +28,7 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Charm       | tim-hardcastle        | Go                | Functional                | Active   |
 | Cognate     | cognate-lang          | C                 | Functional                | Active   |
 | Comune      | comune-lang           | Rust              | OOP/Procedural            | Active   |
+| CoqCP       | bubblesorttest        | No Implementation | Functional                | Active   |
 | Cthulu      | Apache-HB             | C/C++             | Procedural                | Active   |
 | Cute        | cutelang              | No Implementation | ?                         | ?        |
 | Cyclic      | helpful.deer.thoughts | No Implementation | ?                         | ?        |
