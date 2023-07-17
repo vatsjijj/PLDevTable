@@ -71,7 +71,6 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | PPL         | gavrilikhin-d         | Rust              | Functional                | Active   |
 | Protozoid   | XANOZOID              | JavaScript        | Concatenative             | Active   |
 | Prowl       | UberPyro              | OCaml             | Concatenative/Logic       | Active   |
-| Pythonon    | Ledr                  | No Implementation | OOP/Procedural            | Active   |
 | Queso       | queso-lang            | TypeScript        | Functional                | Active   |
 | Raven       | nekodjin              | No Implementation | ?                         | Inactive |
 | Ren         | ren-lang              | Elm               | Functional                | Inactive |
@@ -89,6 +88,7 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Strictly    | strictly-lang         | JS/Haskell        | Declarative               | Inactive |
 | Styff       | aradarbel10           | OCaml             | Functional                | Inactive |
 | Toy         | Ratstail91            | C                 | Procedural                | Active   |
+| Upsilon     | ledr_                 | No Implementation | OOP/Procedural            | Active   |
 | Viper       | solar-mist            | C                 | Procedural                | Active   |
 | Vox         | MrSmith33             | D                 | Procedural                | Active   |
 | Wizardry    | Wizardry-PL           | No Implementation | Procedural                | Inactive |
