@@ -93,6 +93,6 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Viper       | solar-mist            | C                 | Procedural                | Active   |
 | Vox         | MrSmith33             | D                 | Procedural                | Active   |
 | Wizardry    | Wizardry-PL           | No Implementation | Procedural                | Inactive |
-| Wonton      | vatsjijj              | No Implementation | Procedural                | Active   |
+| Wonton      | vatsjijj              | Haxe              | Procedural/Concatenative  | Active   |
 
 Note on ASC: I've seen a working implementation floating around before, but I cannot remember the details of it.
