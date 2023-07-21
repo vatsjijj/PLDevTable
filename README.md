@@ -16,6 +16,7 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Amoeba      | kalyani-tt            | Agda              | Functional                | Active   |
 | Ante        | jfecher               | Rust              | Functional                | Active   |
 | Aurora      | aurora-pl             | Kotlin            | Procedural                | Active   |
+| Auxilant    | khora-seule           | Rust              | Procedural                | Active   |
 | Azurite     | rookieCookies         | Rust              | Procedural                | Active   |
 | Basil       | basilTeam             | C++               | Functional                | Inactive |
 | BluC        | johnmschneider        | Java              | OOP/Procedural            | Inactive |
