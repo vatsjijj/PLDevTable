@@ -94,5 +94,3 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Vox         | MrSmith33             | D                 | Procedural                | Active   |
 | Wizardry    | Wizardry-PL           | No Implementation | Procedural                | Inactive |
 | Wonton      | vatsjijj              | Haxe              | Procedural/Concatenative  | Active   |
-
-Note on ASC: I've seen a working implementation floating around before, but I cannot remember the details of it.
