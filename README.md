@@ -15,7 +15,6 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Amethyst    | jenra-uwu             | Rust              | Procedural/Functional     | Active   |
 | Amoeba      | kalyani-tt            | Agda              | Functional                | Active   |
 | Ante        | jfecher               | Rust              | Functional                | Active   |
-| ASC         | daniel-smith-again    | ?                 | ?                         | ?        |
 | Aurora      | aurora-pl             | Kotlin            | Procedural                | Active   |
 | Azurite     | rookieCookies         | Rust              | Procedural                | Active   |
 | Basil       | basilTeam             | C++               | Functional                | Inactive |
@@ -63,6 +62,7 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Newton      | NewtonLang            | Rust              | Procedural                | Active   |
 | Niva        | gavr123456789         | TS/Kotlin/Nim     | Message                   | Active   |
 | Nova        | pyrotek45             | Rust              | Concatenative/Procedural  | Active   |
+| Nᵗʰ         | daniel-smith-again    | ?                 | Functional                | Active   |
 | Peon        | nocturn9x             | Nim               | Procedural                | Active   |
 | Phosphor    | PhosphorLang          | TypeScript        | Procedural                | Active   |
 | Pikelet     | pikelet-lang          | Rust              | Functional                | Inactive |
