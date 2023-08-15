@@ -71,7 +71,7 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Piston      | PistonLang            | Kotlin            | OOP/Procedural            | Active   |
 | Plasma      | PlasmaLang            | Mercury           | Procedural/Functional     | Active   |
 | PPL         | gavrilikhin-d         | Rust              | Functional                | Active   |
-| Protozoid   | XANOZOID              | JavaScript        | Concatenative             | Active   |
+| Protozoid   | XANOZOID              | JavaScript        | Concatenative/Message     | Active   |
 | Prowl       | UberPyro              | OCaml             | Concatenative/Logic       | Active   |
 | Queso       | queso-lang            | TypeScript        | Functional                | Active   |
 | Raven       | nekodjin              | No Implementation | ?                         | Inactive |
