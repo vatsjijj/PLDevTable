@@ -7,21 +7,22 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 
 | Name        | Author(s)             | Language          | Paradigm(s)               | State    |
 | ----------- | --------------------- | ----------------- | ------------------------- | -------- |
-| A7          | Airbus5757            | C#                | Procedural                | Active   |
 | Aardvark    | Aardvark Team         | Python            | OOP/Procedural            | Active   |
 | AEC         | FlatAssembler         | C++               | Procedural                | Active   |
 | Aith        | Superstar64           | Haskell           | Procedural/Functional     | Active   |
 | Algograph   | kfdvh                 | No Implementation | ?                         | ?        |
 | Amethyst    | jenra-uwu             | Rust              | Procedural/Functional     | Active   |
-| Amoeba      | kalyani-tt            | Agda              | Functional                | Active   |
 | Ante        | jfecher               | Rust              | Functional                | Active   |
 | Aurora      | aurora-pl             | Kotlin            | Procedural                | Active   |
 | Auxilant    | khora-seule           | Rust              | Procedural                | Active   |
 | Azurite     | rookieCookies         | Rust              | Procedural                | Active   |
-| Basil       | basilTeam             | C++               | Functional                | Inactive |
+| Basil       | basilTeam             | C++               | Procedural                | Active   |
+| Bismuth     | LethalLadders         | ?                 | ?                         | Active   |
 | BluC        | johnmschneider        | Java              | OOP/Procedural            | Inactive |
+| Bolt        | boltlang              | TypeScript        | Functional                | Active   |
 | BoltVM      | andre-1337            | Rust              | Procedural                | Active   |
 | Brie        | fuzzballcat           | Rust              | Logical/Array             | Active   |
+| Burger      | XANOZOID              | Beef              | Procedural                | Active   |
 | Butter      | neverRare             | Rust              | Procedural                | Active   |
 | Capy        | playXE                | Rust              | Functional                | Active   |
 | Chainmail   | JohnDowson            | Rust              | Message                   | Active   |
@@ -94,4 +95,5 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Viper       | solar-mist            | C                 | Procedural                | Active   |
 | Vox         | MrSmith33             | D                 | Procedural                | Active   |
 | Wizardry    | Wizardry-PL           | No Implementation | Procedural                | Inactive |
-| Wonton      | vatsjijj              | Haxe              | Procedural/Concatenative  | Active   |
+| Wonton      | vatsjijj              | VB.NET            | OOP/Procedural            | Active   |
+| Yabo        | 8051Enthusiast        | Rust/C            | Functional                | Active   |
