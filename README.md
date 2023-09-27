@@ -87,7 +87,7 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Soy         | soylang-org           | C++               | OOP/Procedural            | Active   |
 | Space       | T8080                 | Clojure           | Functional                | Inactive |
 | Star        | ALANVF                | Haxe              | OOP/Procedural            | Active   |
-| Strata      | spaceshaman           | No Implementation | ?                         | ?        |
+| Strata      | spaceshaman           | D                 | Functional/Procedural     | Active   |
 | Strictly    | strictly-lang         | JS/Haskell        | Declarative               | Inactive |
 | Styff       | aradarbel10           | OCaml             | Functional                | Inactive |
 | Toy         | Ratstail91            | C                 | Procedural                | Active   |
