@@ -45,6 +45,7 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | H-Hat       | hhat-lang             | Python            | Quantum                   | Active   |
 | Henkuhisser | henkuhisser-lang      | No Implementation | ?                         | Inactive |
 | Hook        | hook-lang             | C                 | Procedural                | Active   |
+| Horse64     | honse46-calvary       | C/Horse64         | OOP/Procedural/Imperative | Active   |
 | Hyper       | SkillerRaptor         | Rust              | Procedural                | Inactive |
 | Inko        | inko-lang             | Rust              | OOP/Procedural            | Active   |
 | Insitux     | phunanon              | TypeScript        | Functional                | Active   |
