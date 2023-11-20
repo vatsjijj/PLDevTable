@@ -13,6 +13,7 @@ If I get something wrong you can open up a GH issue (do not DM me on Discord abo
 | Algograph   | kfdvh                 | No Implementation | ?                         | ?        |
 | Amethyst    | jenra-uwu             | Rust              | Procedural/Functional     | Active   |
 | Ante        | jfecher               | Rust              | Functional                | Active   |
+| Atlas77     | Gipson62              | Rust              | Functional/Procedural     | Active   |
 | Aurora      | aurora-pl             | Kotlin            | Procedural                | Active   |
 | Auxilant    | khora-seule           | Rust              | Procedural                | Active   |
 | Azurite     | rookieCookies         | Rust              | Procedural                | Active   |
